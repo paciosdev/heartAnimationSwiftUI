@@ -11,6 +11,7 @@
 		AF4FB943259BDE4900D646DA /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF4FB942259BDE4900D646DA /* ContentView.swift */; };
 		AF4FB945259BDE4A00D646DA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AF4FB944259BDE4A00D646DA /* Assets.xcassets */; };
 		AF4FB948259BDE4A00D646DA /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AF4FB947259BDE4A00D646DA /* Preview Assets.xcassets */; };
+		AF4FB951259BDE6500D646DA /* HeartShape.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF4FB950259BDE6500D646DA /* HeartShape.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		AF4FB944259BDE4A00D646DA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AF4FB947259BDE4A00D646DA /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		AF4FB949259BDE4A00D646DA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AF4FB950259BDE6500D646DA /* HeartShape.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeartShape.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				AF4FB940259BDE4900D646DA /* Heart_AnimateApp.swift */,
 				AF4FB942259BDE4900D646DA /* ContentView.swift */,
+				AF4FB950259BDE6500D646DA /* HeartShape.swift */,
 				AF4FB944259BDE4A00D646DA /* Assets.xcassets */,
 				AF4FB949259BDE4A00D646DA /* Info.plist */,
 				AF4FB946259BDE4A00D646DA /* Preview Content */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AF4FB951259BDE6500D646DA /* HeartShape.swift in Sources */,
 				AF4FB943259BDE4900D646DA /* ContentView.swift in Sources */,
 				AF4FB941259BDE4900D646DA /* Heart_AnimateApp.swift in Sources */,
 			);
